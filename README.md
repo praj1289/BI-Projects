@@ -19,7 +19,7 @@ The Customer Performance Demographic Dashboard provides insights into how differ
 - Customer Lifetime Value (CLV): Projected revenue from different customer segments.
 
 ### Features of the Dashboard
-- Dynamic Filtering: Ability to filter metrics by region, age group.
+- Dynamic Filtering: Ability to filter metrics by region.
 - Trend Analysis: Visualize revenue for different demographics.
 - Bar charts for revenue contribution by demographic group.
 - Geographical Mapping: Highlight revenue and performance metrics by region.
