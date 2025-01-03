@@ -1,64 +1,36 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
 
-# Introduction to GitHub
+# Google Merchandise Store Looker Dashboard
 
-_Get started using GitHub in less than an hour._
+### Dashboard Link : https://lookerstudio.google.com/reporting/7761ac7e-6142-46ba-9a46-879e3dd72f5d
 
-</header>
+## Problem Statement
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+The Google Merchandise Store Looker Dashboard provides actionable insights into the performance of the online store, focusing on customer behavior, sales performance, and marketing effectiveness. This dashboard helps stakeholders make data-driven decisions to optimize user experience, drive revenue, and improve operational efficiency. It is also valuable for monitoring site performance, understanding user behavior, and identifying revenue-driving user segments. Businesses can leverage it to optimize content, refine marketing strategies, and personalize user experiences based on device, geography, and interest data.
 
-## Finish
+### Target Audience
 
-_Congratulations, you've completed this course and joined the world of developers!_
+- Marketing Teams
+- E-commerce Managers
+- Customer Success Teams
+- Product Managers
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+### Metrics and KPIs
+- Total Views: Measure of the overall engagement with the site.
+- Total Users: The number of unique users interacting with the site.
+- Total Transactions: The total number of successful purchases or completed transactions.
+- Weekly Users Trend: A time-series KPI showing the change in user activity over time, highlighting peaks, troughs, and overall trends.
+- Top Views by Country: Insights into geographical engagement, identifying countries contributing the most views.
+- Top Pages by Views: Pinpoints the most popular pages on the site, highlighting areas of interest.
+- Top Views by Devices: Breaks down views by device type (e.g., mobile, desktop, tablet) to understand how users access the site.
+- Revenue by Interests: Segments revenue based on user interest categories, providing insights into the preferences of high-value user segments.
 
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+### Features of the Dashboard
+- Dynamic Filtering: Ability to filter metrics by date.
+- Trend Analysis: Visualize revenue for different demographics and date range.
+- Bar charts showing users by demographic region.
+- Geographical Mapping: Highlight revenue and performance metrics by region.
+- Interactive Elements: Allows users to filter, drill down, or hover over charts for additional details
+  
+### Snapshot of the Dashboard
+![Google Merchandise Looker](https://github.com/user-attachments/assets/c67b79c1-645a-422d-b587-9d6cec84d86b)
